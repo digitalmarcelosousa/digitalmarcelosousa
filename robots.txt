@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://SEU-DOMINIO.pages.dev/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
